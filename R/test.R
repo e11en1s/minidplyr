@@ -1,6 +1,6 @@
-#' Title
+#' test
 #'
-#' @param x 
+#' @param x A vector
 #'
 #' @return
 #' @export
@@ -9,4 +9,3 @@
 test <- function(x) {
   x + 1 
 }
-minidplyr4::test(5:6)

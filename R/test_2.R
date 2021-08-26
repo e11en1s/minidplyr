@@ -1,6 +1,6 @@
-#' Title
+#' Test_2
 #'
-#' @param x 
+#' @param x A vector
 #'
 #' @return
 #' @export

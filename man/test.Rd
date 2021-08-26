@@ -2,16 +2,16 @@
 % Please edit documentation in R/test.R
 \name{test}
 \alias{test}
-\title{Title}
+\title{test}
 \usage{
 test(x)
 }
 \arguments{
-\item{x}{}
+\item{x}{A vector}
 }
 \value{
 
 }
 \description{
-Title
+test
 }
