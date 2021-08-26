@@ -6,7 +6,6 @@
 #' @export
 #'
 #' @examples
-test <- function(x) {
-  x + 1 
+test_2 <- function(x) {
+  x * 1
 }
-minidplyr4::test(5:6)
