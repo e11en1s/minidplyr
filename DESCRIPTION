@@ -14,5 +14,7 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1
 Imports: 
     dplyr
-Suggests: 
+Suggests:
+    spelling, 
     testthat
+Language: en-US
