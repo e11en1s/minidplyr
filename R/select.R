@@ -7,6 +7,8 @@
 #' @export
 #'
 #' @examples
+#' res <- select2(iris, 3:4)
+#' plot(res)
 select2 <- function(df, names_or_ind) {
   df[names_or_ind]
 }

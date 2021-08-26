@@ -17,3 +17,7 @@ Another data frame, with the subsetted columns.
 \description{
 Select some colums
 }
+\examples{
+res <- select2(iris, 3:4)
+plot(res)
+}
